@@ -7,6 +7,9 @@ TagManager:
   - Key2
   - damage
   - Key1
+  - ground
+  - Death
+  - checkpoint
   layers:
   - Default
   - TransparentFX
