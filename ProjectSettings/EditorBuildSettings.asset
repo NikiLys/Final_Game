@@ -5,7 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: d1c3109bdb54ad54c8a2b2838528e640
+    path: Assets/VinnyAssets/Scenes/3DUI.unity
+    guid: 0d38b13e8f60e7d4b9373c278f6e9154
+  - enabled: 1
+    path: Assets/VinnyAssets/Scenes/Vinny_Level.unity
+    guid: 00d1661a9d9c65b418524aa77bca22be
   m_configObjects: {}
