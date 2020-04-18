@@ -30,8 +30,7 @@ ScriptedImporter:
       lightmapFlags: 4
       texEnvs:
       - name: _BaseMap
-        texture: {fileID: 3777723659566039494, guid: 55674a86a808e494ea062efd9846332c,
-          type: 3}
+        texture: {instanceID: 0}
         scale: {x: 1, y: 1}
         offset: {x: 0, y: 0}
       - name: _BumpMap
@@ -264,8 +263,7 @@ ScriptedImporter:
       lightmapFlags: 4
       texEnvs:
       - name: _BaseMap
-        texture: {fileID: -6718706005999732660, guid: 55674a86a808e494ea062efd9846332c,
-          type: 3}
+        texture: {instanceID: 0}
         scale: {x: 1, y: 1}
         offset: {x: 0, y: 0}
       - name: _BumpMap
