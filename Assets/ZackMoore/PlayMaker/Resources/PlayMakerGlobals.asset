@@ -74,3 +74,8 @@ MonoBehaviour:
   - CHASE
   - CHASEPLAYER
   - STOP
+  - SETMAX
+  - SETCURRENT
+  - RESPAWN
+  - DAMAGE
+  - REPAIR
