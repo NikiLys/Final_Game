@@ -10,6 +10,7 @@ TagManager:
   - ground
   - Death
   - checkpoint
+  - death
   layers:
   - Default
   - TransparentFX
@@ -20,7 +21,7 @@ TagManager:
   - 
   - 
   - PostProcessing
-  - 
+  - Floor
   - 
   - 
   - 

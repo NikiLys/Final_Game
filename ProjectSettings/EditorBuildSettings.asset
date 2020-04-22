@@ -5,25 +5,19 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
+  - enabled: 1
     path: Assets/VinnyFolder/Scenes/3DUI.unity
     guid: 0d38b13e8f60e7d4b9373c278f6e9154
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
+  - enabled: 1
     path: Assets/SeungwooJang/Scene/Piano_Proxy.unity
     guid: 313f65875be869a4bbc19c15391b1e18
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
+  - enabled: 1
+    path: Assets/VinnyFolder/Scenes/Vinny_LevelWithAssets.unity
+    guid: 0fa9b1d547dc9dc4cba4101cff4e412a
+  - enabled: 1
     path: Assets/Nikita/Scene/Final_Level.unity
     guid: 1f194a136ec560542894df39db4b7723
   - enabled: 1
-    path: Assets/TextureSubmission/FIAGroupScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/VinnyFolder/Scenes/Credits.unity
+    guid: b74f29e2f955c484ab267c21182ee732
   m_configObjects: {}
